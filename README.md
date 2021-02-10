@@ -1,3 +1,3 @@
 # langind-page
 
-landing page without funtionality
+[landing page](https://angel-moreno1.github.io/landing-page/)
